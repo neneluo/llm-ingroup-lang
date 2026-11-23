@@ -1,0 +1,502 @@
+subreddit,term,definition,NER_TAG
+bigbrother,floaters,"a houseguest who hasn’t chosen a side, and has no real alliance to which they are loyal. They tend to shift sides as the power shifts in the house.",O
+bigbrother,bob,Battle of the Block,O
+bigbrother,showmance,A term used to describe a romantic relationship between two houseguests. Often times it means they are also aligned.,O
+bigbrother,hoh,Head of Household,O
+bigbrother,jodi,"not an alliance, but a well known player famous for being evicted from BB14 on the first day.",PERSON
+bigbrother,dr,Diary Room,LOCATION
+bigbrother,have-nots,"On certain weeks, there will be a certain amount of people selected to be Have-Nots. This is sometimes chosen by a completion, and sometimes chosen by the current HoH. Have-Nots are not allowed to eat normal food, but instead slop (see below for what slop is) for the entire week - unless otherwise told they can. They are only permitted to have cold showers and must sleep in the “Have-Not Room”, which is always a room with some kind of unpleasant feature to it such as uncomfortable beds, minimal blankets and/or freezing temperatures.",GROUP
+bigbrother,comp,Competition,O
+bigbrother,pov,Power of Veto,O
+teenmomogandteenmom2,rhine,how Maci says Ryan,PERSON
+teenmomogandteenmom2,adumb,"Adam Lind, Aubrees Dad",PERSON
+rainbow6,epi,"user /u/Its_Epi, community developer who frequents /r/Rainbow6",PERSON
+rainbow6,ubi,"Ubisoft, developers of Rainbow Six Siege",PERSON
+rainbow6,t-hunt,Terrorist Hunt,CREATIVE_WORK
+rainbow6,bope,"Batalhão de Operações Policiais Especiais, trans. Police Special Operations Battalion (Operation Skull Rain, Y1S3)",GROUP
+rainbow6,msr,Mid-season reinforcements; patches released in the middle of the season,O
+rainbow6,battery,Alternative name for Bandit's Shock Wire,PRODUCT
+rainbow6,chimera,"Operation Chimera, Y3S1",CREATIVE_WORK
+rainbow6,707th,"707th Special Mission Battalion (Operation White Noise, Y2S4)",GROUP
+rainbow6,ads,Aim Down Sight,CREATIVE_WORK
+rainbow6,sdu,"Special Duties Unit (Operation Blood Orchid, Y2S3)",GROUP
+rainbow6,chanka,"Tachanka, Spetsnaz defense operator",PERSON
+rainbow6,nerfbeard,"Blackbeard was very OP when he got released and got 3 nerfs in the following seasons/patches. Users began to associate any changes in the game with the suggestion ""Nerf Blackbeard"" as a joke.",PERSON
+rainbow6,esl,"Electronic Sports League, Competitive league for Siege",O
+rainbow6,valk,"Valkyrie, Navy SEALS defense operator (Operation Dust Line)",PERSON
+rainbow6,sas,Special Air Service,GROUP
+rainbow6,th,Terrorist Hunt,CREATIVE_WORK
+rainbow6,vtk,Vote to Kick,CREATIVE_WORK
+rainbow6,bb,"Blackbeard, Operation Dust Line attack operator",PERSON
+rainbow6,oh,Operation Health (Y2S2),CREATIVE_WORK
+rainbow6,cce,Clash's full-body CCE Shield,PRODUCT
+rainbow6,gigr,"Groupe d'Intervention de La Gendarmerie Royale, trans. Intervention Group of the Royal Gendarmerie (Operation Wind Bastion, Y3S4)",GROUP
+rainbow6,gign,"Groupe d'intervention de la Gendarmerie nationale, trans. National Gendarmerie Intervention Group",GROUP
+rainbow6,beauties,Smoke's Remote Gas Grenade,PRODUCT
+rainbow6,vac,Valve Anti-Cheat. A carryover from CS:GO players; jokingly used in reference to other games. Siege does not use the VAC system.,PRODUCT
+rainbow6,r6s,Rainbow Six Siege,CREATIVE_WORK
+rainbow6,mav,"Maverick, GSUTR attack operator (Operation Grim Sky)",PERSON
+rainbow6,prone,Laying all the way down on stomach,O
+rainbow6,sat,"Special Assault Team (Operation Red Crow, Y1S4)",GROUP
+rainbow6,be,BattlEye; an anti-cheat measure,PRODUCT
+rainbow6,meta,Common strategies used in game right now,O
+rainbow6,lifeline,Zofia's KS79 Lifeline,PRODUCT
+rainbow6,emp,ElectroMagnetic Pulse [grenade]; Thatcher's Ability,PRODUCT
+rainbow6,jtf2,"Joint Task Force 2 (Operation Black Ice, Y1S1)",GROUP
+rainbow6,uplay,"Ubisoft's DRM, digital distribution, and multiplayer platform",PRODUCT
+rainbow6,peak,Top of a hill or mountain,O
+rainbow6,ap,Alpha Pack,PRODUCT
+rainbow6,lord,"Tachanka, Spetsnaz defense operator",PERSON
+exmormon,scmc,Strengthening Church Members Committee,GROUP
+exmormon,jw,Jehovah's Witness[es],GROUP
+exmormon,yw,Young Womens,O
+exmormon,ces,Church Educational System,CORPORATION
+exmormon,boa,Book of Abraham,CREATIVE_WORK
+exmormon,eq,Elder's Quorum,GROUP
+exmormon,tbm,True Blue Mormon or True Believing Mormon. May be facetiously used as Totally Brainwashed Mormon,O
+exmormon,sil,Sister-in-law,O
+exmormon,til,Today I Learned,O
+exmormon,coc,Community of Christ,CORPORATION
+exmormon,fil,Father-in-law,O
+exmormon,js,Joseph Smith,PERSON
+exmormon,jod,"Journal of Discourses, is online",CREATIVE_WORK
+exmormon,fp,First Presidency,O
+exmormon,hp,High Priest,O
+exmormon,irl,"In real life, as opposed on online/cyberspace.",O
+exmormon,ht,Home Teacher,O
+exmormon,dr,Didn't Read,O
+exmormon,bic,Born In the Covenant (parents had been sealed in the temple prior to your birth),O
+exmormon,zl,"Zone Leader, responsible for several districts",O
+exmormon,ctr,"Choose the Right, a mormon saying and common symbol on rings worn by Mormons",O
+exmormon,bitfdwt,Burn it the fuck down with truth,O
+exmormon,mtc,Missionary Training Center,LOCATION
+exmormon,gbh,Gordon B. Hinckley,PERSON
+exmormon,ftm,Fast and Testimony Meeting,O
+exmormon,wow,Visiting Teacher,O
+exmormon,nnn,NewNameNoah AKA Mike Norton the guy who films the temple videos,PERSON
+exmormon,q15,"Quorum of the Fifteen, facetiously referring to the Quorum of the Twelve plus the First Presidency",GROUP
+exmormon,cab,"Church Administration Bldg, c1920",LOCATION
+exmormon,lgbt,"Lesbian, Gay, Bisexual, and Transgender. The mainstream self-designation for a diversity of sexuality and gender identity-based cultures. More here.",GROUP
+exmormon,bkp,Boyd K Packer: A hardline LDS apostle who died in 2015.,PERSON
+exmormon,fair,"Foundation for Apologetic Information & Research, an apologetic organization",CORPORATION
+exmormon,pimo,"Physically In, Mentally Out",O
+exmormon,ppi,Personal Priesthood Interview,O
+exmormon,lds,Latter-day Saint,CORPORATION
+exmormon,colds,Church of [the] Latter Day Saints. A sarcastic or irreverent descriptive acronym synonymous to COJCOLDS,CORPORATION
+exmormon,dl,"District Leader, responsible for 3 or 4 sets of missionaries",O
+exmormon,aof,"Articles of Faith, a list of thirteen statements of beliefs of the LDS church.",CREATIVE_WORK
+exmormon,vt,Visiting Teacher,O
+exmormon,chi,Church Handbook of Instruction. There are two volumes: one is public and one is only available to bishop-level officials.,CREATIVE_WORK
+exmormon,nom,New Order Mormon; National Organization for Marriage; disambiguation,CORPORATION
+exmormon,ssa,Same Sex Attraction. An outmoded term used by LDS Leaders to passively deny that people can be gay or lesbian. See LGBT.,O
+exmormon,pox,"Policy of Exclusion. Excluding the children of gay couples from baby blessings, baptisms, and ordinations. Sometimes called the ""November policy"" as it was leaked on November 5, 2015.",O
+exmormon,fhe,Family Home Evening,O
+exmormon,flds,Fundamentalist Church of Jesus Christ of Latter-Day Saints,GROUP
+exmormon,ck,"Celestial Kingdom, where God lives and all Mormon believers strive to reach",LOCATION
+exmormon,tl,Too Long,O
+exmormon,hf,Heavenly Father,O
+exmormon,rm,Returned missionary: A person who has successfully completed a full-time mission assignment.,O
+exmormon,ga,General Authority,O
+exmormon,dm,Dear Mother,O
+exmormon,tscc,"""The So-Called Church"", The Church of Jesus Christ of Latter-day Saints",CORPORATION
+exmormon,byu,Brigham Young University,CORPORATION
+exmormon,mmm,Mountain Meadows Massacre,O
+askgaybros,otter,Typically a thin-average build man with noticeable body hair. Trimmed/Untrimmed & facial hair optional.,O
+askgaybros,lgbt,"The most common acronym used to describe the community of individuals on the queer spectrum. Stands for Lesbian, Gay, Bisexual, Transgender, Questioning, Intersex, and the A, depending on who you ask, is either asexual or ally.",GROUP
+askgaybros,bottom,"Gay man who is or prefers to be the penetrated (""passive"") partner in anal sex. Known colloquially as ""catcher.""",O
+askgaybros,poz,An HIV-positive individual.,O
+askgaybros,rimming,"The performance of oral sex on an anus. Referred to colloquially as ""eating ass.""",O
+askgaybros,twunk,"A twink, but more muscular. Somewhere between a twink, jock, and hunk.",O
+askgaybros,pup,"A term used to describe young men in the gay community. Usually <25 with average build, little-no body or facial hair. Can also be used specifically to refer to anyone inexperienced.",O
+askgaybros,fem,"Term used to describe or self-identify as a gay man with more traditionally feminine interests, mannerisms, or appearance. Often considered to be the 'gay stereotype'.",O
+askgaybros,chaser,"Chasers can be almost any body type, build, or age and are linked to chubs. This group are attracted romantically and physically to chubs and typically referred to as chub chasers.",O
+askgaybros,edging,"Masturbating yourself or a partner almost reach orgasm but preventing them from doing so. Edging is typically a more standard encounter to extend the orgasm, whereas orgasm denial is often more sub/dom such as not 'allowing' the submissive partner to ejaculate.",O
+askgaybros,intersex,An individual who does not biologically conform to one of the binary sexes from birth.,O
+askgaybros,lgbtq,"The most common acronym used to describe the community of individuals on the queer spectrum. Stands for Lesbian, Gay, Bisexual, Transgender, Questioning, Intersex, and the A, depending on who you ask, is either asexual or ally.",GROUP
+askgaybros,gloryholes,"A location with a wall, door, or surface with a hole specifically for the purpose of putting your penis through to be stimulated by another person. Often found in public bathrooms, changing rooms, locker rooms, public showers, and home-made gloryholes in more residential locations.",LOCATION
+askgaybros,humiliation,"Involves the domination of one partner over the other in a more psychological or verbal dimension. Includes small penis humiliation (where one partner humiliates the other for the size of their penis) and is related to feminization (the emasculation of a man), infantilization (treating an adult like a baby), and financial domination (the extreme spending of one partner's money by another).",O
+askgaybros,str8,"Can refer to a straight male or can refer to a man who is not straight but appears to be (see ""straight-acting""). Often used derogatorily or sarcastically.",O
+askgaybros,chub,Overweight or obese man similar to bears but with little-no body hair. Chubs are often considered to be larger build than most bears but it's unclear whether this is universally accurate.,O
+askgaybros,bull,Muscular men similar to muscle bears but typically with a larger build and average body/facial hair.,O
+askgaybros,versatile,Gay man who plays both top and bottom roles during anal sex or has no strong preference between the two.,O
+fashionreps,lc,"If you have doubt that your item purchased from a source is not authentic, you have it LEGIT CHECKED to see if its real. Nothing replica is legit! The people in this sub know a fake better than anybody, and many ""hypebeasts"" use this sub to make sure their items are not good replicas.",O
+fashionreps,sp,Super Perfect,O
+fashionreps,w2c,"If you're interested in an item but didn't find when you searched on your own, make a post the item you want and maybe people will link you up. You will not always get the help you want, but it is worth a try.",O
+fashionreps,qc,"Quality Control is basically checking the quality of your rep. QC's consist of pictures that the seller or agent you are using sends you. From the pictures you can conclude if your gonna buy the rep or not. Sellers send you the pictures if you ask for them, but they won't by default. Agents send QC by default. Some agents have better QC than others.",O
+fashionreps,ua,Unauthorized (Basically an exact replica with very little to no flaws),O
+churning,cb,A cash reward given for credit card spending.,O
+churning,2x,"The base or category earning rate for rewards. Rewards can be points, miles, or cashback.",O
+churning,recon,The phone line for the CC company to request reconsideration of a pending or denied application.,O
+churning,ms,"Manufactured spending (MS) is the process of purchasing cash equivalents with a rewards earning credit card, where the rewards earned are greater than the fees incurred. This includes gift cards, money orders, and the loading of prepaid debit cards.",O
+churning,dp,"A single fact or piece of information. Used extensively in r/churning to decipher rules, roadblocks, and loopholes for earning rewards.",O
+churning,csr,Chase Sapphire Reserve Credit Card,PRODUCT
+churning,ft,Forum with extensive discussions on all award travel related topics,O
+churning,msr,The minimum amount that must be spent on a credit card in order to qualify for a sign up bonus.,O
+churning,rt,An outbound and return flight from a single location.,O
+churning,aa,"""Adverse Action""",O
+churning,pc,Banks will generally allow you to upgrade to annual fee cards or downgrade to lower/no fee cards although in most cases you will forego any sign up bonus offered. It's common for people to pick the Premium card e.g. Chase Sapphire Preferred and downgrade within a year to avoid the annual fee.,O
+churning,ck,A free credit monitoring service that gives access to credit reports from Equifax and TransUnion.,O
+churning,cf,Chase Freedom Credit Card,PRODUCT
+churning,amex,American Express,CORPORATION
+churning,ff,A loyalty program offered by an airline. Many airlines have frequent-flyer programs designed to encourage airline customers enrolled in the program to accumulate miles (and/or segments) which may then be redeemed for air travel or other rewards.,O
+churning,ein,Employer Identification Number,O
+churning,bb,American Express BlueBird Prepaid Debit Card,PRODUCT
+churning,ur,Chase Ultimate Reward Program,PRODUCT
+churning,y,"Letter designation for class of seat on an airline: F=first class, J=business class, Y=economy class",O
+churning,mpe,Chase United MileagePlus Explorer Credit Card,PRODUCT
+churning,boa,Bank of America,CORPORATION
+churning,mo,"A money order is a payment order for a pre-specified amount of money. It is required that the funds be prepaid for the amount shown on it, and therefore is a more trusted method of payment than a check.",O
+churning,dd,Electronic funds that are deposited directly into your bank account rather than through a paper check. Common uses of a direct deposit include income tax refunds and pay checks.,O
+churning,hp,"Refers to a check that the bank will perform on your credit profile. This will result in a temporary hit to your credit score. Excessive amounts of hard pulls is detrimental to your churning profile as this appears to the bank that you are a ""credit risk"" seeking to incur a large debt without hope of repayment (See: Not Worth the Hit)",O
+churning,bofa,Bank of America,CORPORATION
+churning,pp,Priority Pass Lounges,O
+churning,ua,United Airlines,CORPORATION
+churning,af,	The yearly fee associated with premium credit cards.,O
+churning,southwest,"The proper IATA code for Southwest Airlines, but ""SW"" is more commonly used.",CORPORATION
+churning,kate,RIP. The now defunct The Money Center Express ATM at Walmart that were used to load VGCs to Serve/Bluebird.,O
+churning,tpg,"""The Points Guy"" blog",CREATIVE_WORK
+churning,wf,Wells Fargo (or Whole Foods),CORPORATION
+churning,1x,"The base or category earning rate for rewards. Rewards can be points, miles, or cashback.",O
+skincareaddiction,laa,L-Ascorbic Acid-- Vitamin C in true form. Most effective. HIGHLY unstable. Best at pH 3.,O
+skincareaddiction,ga,Glycolic Acid--stronger AHA,O
+skincareaddiction,ocm,"Oil Cleansing Method-- You can use multiple oils or one oil to cleanse, depending on your preference. We do not promote the steaming aspect of this, but rather a warm wet washcloth.",O
+skincareaddiction,cf,Cruelty Free,O
+skincareaddiction,hg,Holy Grail,O
+skincareaddiction,hcb,Hydrocolloid bandage,O
+skincareaddiction,pc,Paula's Choice,CORPORATION
+skincareaddiction,qhmjm,"Queen Helene Mint Julep Mask -- clay that is bentonite, kaolin, sulfur, zinc, and some fragrance",PRODUCT
+skincareaddiction,eo,Essential Oils-- Should be diluted to avoid skin irritation.,O
+skincareaddiction,muac,MakeupArtistsChoice,CORPORATION
+skincareaddiction,he,High End,O
+skincareaddiction,sles,"Sodium Laureth Sulfate; cleansing ingredient and foaming agent. Can irritate skin, but is considered more gentle than its sibling SLS.",O
+skincareaddiction,sls,Sodium Lauryl Sulfate; cleansing ingredient and foaming agent. Known irritant.,O
+skincareaddiction,pih,Post inflammatory hyperpigmentation,O
+skincareaddiction,evoo,Extra Virgin Olive Oil,O
+skincareaddiction,acv,Apple Cider Vinegar-- Some find this useful as a toner or as a cleanser. pH of 4-5. May possess antimicrobial effects.,O
+clashroyale,doot,an onomatopoeia associated with Skeletons or skeleton-based troops.,O
+clashroyale,overleveled,"a player or the cards used by the player on ladder that are above-average level for the player's experience level or trophy range. This is generally considered low skill and unfair, especially when common cards such as Royal Giant and Elite Barbarians are overleveled.",O
+clashroyale,counter,"a card, deck, or strategy that is designed to work well against an opposing card, deck, or strategy",O
+clashroyale,tourney,tournament,O
+clashroyale,anti-meta,"a card or deck designed to work to counter what is popular in the metagame. Guards, for instance, started gaining popularity to counter the omnipresent Mini P.E.K.K.A.",O
+clashroyale,ccgs,same as Crown Championship Global Series,O
+clashroyale,ppp,"P.E.K.K.A./Prince/Dark Prince, an old beatdown deck that uses the P.E.K.K.A., Prince, and Dark Prince with synergy. The P.E.K.K.A. acts as a tank, the Prince is a secondary minitank and damage dealer, and the Dark Prince does splash damage. The old standard deck was P.E.K.K.A., Prince, Dark Prince, Princess, Minion Horde, Freeze, Elixir Collector, and Arrows.",O
+clashroyale,toxic,"used to describe players or a community that are not friendly or welcoming, oftentimes openly hostile or overly passive aggressive, especially towards inexperienced or unskilled players and different ideas. Being toxic negatively affects others and their experience.",O
+clashroyale,loon,Balloon,CREATIVE_WORK
+clashroyale,stabs,"in the context of Goblins, a Goblin hit",O
+clashroyale,gob,short for Goblin,CREATIVE_WORK
+clashroyale,cycle,the order in which a player's cards will appear. Can also refer to a player's trying to get a specific card previously deployed by deploying other cards (e.g. placing Skeletons to cycle for a Hog Rider),O
+clashroyale,dps,damage per second,O
+clashroyale,feeder,"in the context of clans, a clan that is associated with another clan whose existence is generally due to limitations in clan membership",O
+clashroyale,coc,"Clash of Clans, another popular Supercell game.",CREATIVE_WORK
+clashroyale,pat,same as Chief Pat,PERSON
+clashroyale,tank,"a troop that is used for the primary purpose of distraction and generally has very high HP. Includes Giant, P.E.K.K.A., Lava Hound, Golem, and Royal Giant.",O
+clashroyale,league,a 300-trophy division from 4000 trophies and higher,O
+clashroyale,mm,Mega Minion,CREATIVE_WORK
+clashroyale,rng,random number generator,O
+clashroyale,bridge,the narrow strips of land connecting the friendly and enemy sides of the arena,O
+clashroyale,id,Inferno Dragon,CREATIVE_WORK
+clashroyale,siege,"a deck archetype that focuses on proactively placing buildings, staying on the friendly side while taking the opponent's tower with chip damage. Siege decks put pressure on the opponent to come to their side or lose a tower. Common win conditions include Rocket, Mortar, X-Bow, and huts. Supercell has made several statements that imply they do not want Siege decks to be dominant in gameplay. Siege is generally favorable against Control but is generally unfavorable against Beatdown.",O
+clashroyale,op,overpowered. May also refer to original poster or original post online.,O
+clashroyale,nerf,an update to make something weaker or the act of making something weaker,O
+clashroyale,2v2,Clan Battle,O
+clashroyale,lane,one of the two halfs of the arena leading to one of the crown towers,O
+clashroyale,naked,describes a card that is used without other supporting cards (e.g. a naked Hog Rider is a Hog Rider deployed without support cards),O
+clashroyale,gs,Giant Skeleton,CREATIVE_WORK
+clashroyale,salty,upset or angry; noun: salt,O
+clashroyale,yarn,"/u/yyarn, the main creator and narrator of Orange Juice Gaming videos, loves positive elixir trades",PERSON
+clashroyale,bm,"bad manners or to bad manner. Examples include laughing or saying ""Thanks!"" at a misplay.",O
+clashroyale,nickatnyte,a popular Clash Royale and Clash of Clans YouTuber.,PERSON
+clashroyale,kiting,diverting an attacking troop to the opposite lane by dropping distraction troops that it follows,O
+clashroyale,synergy,"if you're looking up this definition you're probably not in business when several cards or effects, used together, have an effect greater than the sum of their effects used individually",O
+clashroyale,goison,"a beatdown deck that uses Giant and Poison to build elixir advantages, overwhelm the opponent, and kill counterpushes. Almost always uses Elixir Collector and Zap. This deck has largely evolved over time. The original is the Shanghai deck (see below). Lumberjack had some (limited) experimentation over Mini PEKKA. Ice Spirit would end up taking the preferred spot over the Princess. For a while, Bowler would fill a role over either Ice Spirit, Mini PEKKA, or Musketeer, and Prince would gain momentum in Mini PEKKA's spot to use against Bowler. When the Mega Minion was released, a standard Goison deck emerges: Giant / Poison / Mega Minion / Elixir Collector / Zap / Prince / Ice Spirit / Guards (or sometimes Musketeer). The Mega Minion is often played behind the Giant while the Giant crosses the bridge. This deck, however, sees very little play now because of the October Poison nerf and Elixir Collector rework.",O
+clashroyale,bd,Baby Dragon,CREATIVE_WORK
+clashroyale,it,Inferno Tower,LOCATION
+clashroyale,eb,Elite Barbarians,CREATIVE_WORK
+clashroyale,gy,Graveyard,CREATIVE_WORK
+clashroyale,oj,"a popular YouTube channel for Clash Royale, known for its informative guides and strategy videos.",PERSON
+clashroyale,supercell,"a Finnish mobile game company that created Hay Day, Clash of Clans, Boom Beach, and Clash Royale. Also known as supreme overlord.",CORPORATION
+clashroyale,tilt,a state of mind where a player continuously loses. Can be prevented through going on breaks and/or trying new decks.,O
+clashroyale,nw,Night Witch,PERSON
+clashroyale,e-barbs,Elite Barbarians,CREATIVE_WORK
+clashroyale,hog,Hog Rider,CREATIVE_WORK
+clashroyale,metagame,"decks, cards, and strategies that are popular in the game at the moment, gameplay and strategy beyond the surface level of the game",O
+clashroyale,control,a deck archetype that focuses on making positive elixir trades through defense on the user's side of the arena and uses specific cards to damage a tower with the excess elixir. Control deck users succeed by being mindful of the enemy's elixir count. Control is generally favorable against Beatdown but is generally unfavorable against Siege.,O
+clashroyale,leg,legendary,O
+clashroyale,splash,a type of damage where damage done to a target will also affect nearby targets,O
+clashroyale,molt,a popular Clash Royale and Clash of Clans YouTuber.,PERSON
+clashroyale,bt,"a strategy that triggers CMcHugh includes several cards meant to be placed at the bridge to immediately pressure a lane, such as Bandit and Battle Ram",O
+clashroyale,musk,Musketeer,CREATIVE_WORK
+clashroyale,leggie,legendary,O
+clashroyale,p2p,"pay-to-play, a player that has spent money on the game",O
+clashroyale,rg,Royal Giant,CREATIVE_WORK
+clashroyale,lh,Lava Hound,CREATIVE_WORK
+clashroyale,valk,Valkyrie,PERSON
+clashroyale,drag,"Dragon, as in Baby Dragon (Baby Drag) or Inferno Dragon (Inferno Drag)",O
+clashroyale,smc,"Super Magical Chest, a very rare chest that has many cards (including Epics and Rares) and gold and has a high legendary drop chance. Also can be bought in the shop with gems. Also refers to the Reddit Super Magical Cup tournaments formerly hosted by /u/The_RumHam.",PRODUCT
+clashroyale,payfecta,"a portmanteau of ""pay"" and ""trifecta"", a deck that uses Princess, Ice Wizard, and Miner. Same as triple legendary, but can be used as a term to imply the deck is unfairly p2w.",O
+clashroyale,iw,Ice Wizard,CREATIVE_WORK
+clashroyale,gl,good luck,O
+elderscrollsonline,cyro,Cyrodiil,LOCATION
+elderscrollsonline,aggro,"Aggression. Determines who an enemy will attack. If you stand too close, they will go hostile and begin combat (Only on aggressive mobs, passive mobs like Guar don't attack unless they're provoked).",O
+elderscrollsonline,jumping,"A very effective tactic where a large force from one alliance attacks another alliance which has been very weakened from just taking a keep from a third alliance. Can also be used on players after they win a fight against a ganker (see below). This tactic was used by the Ebonheart Pact in the famous Battle of the Chalamo on February 7th, 2014, where ESO's first emperor was crowned (There is a book about it in the Inner section of Chalman Keep.).",O
+elderscrollsonline,pm,"Whisper, a form of private conversation that no-one else but you and the person you're whispering can see.",O
+elderscrollsonline,temp,Templar,O
+elderscrollsonline,wts,Want to Sell. Used when a player wants to sell something e.g WTS Dwemer Motif for 20k (Don't expect to actually see a Dwemer motif at this price!).,O
+elderscrollsonline,tick,"The frequency of which damage or healing from DoTs or HoTs will occur, for example, every one second, you are healed/hurt for 1337.",O
+elderscrollsonline,ws,Wayrest Sewers,LOCATION
+elderscrollsonline,bs,"Blacksmithing, also used as an abbreviation for the vulgar way to say bull's faeces.",O
+elderscrollsonline,dragon,Fort Dragonclaw,LOCATION
+elderscrollsonline,db,Dark Brotherhood. A notorious group of assassins planned to be released sometime in the future.,GROUP
+elderscrollsonline,dk,Dragonknight,O
+elderscrollsonline,decon,"Deconstruct. The ""Disenchant"" bit comes from the MMO term of the same name, where one would destroy a particular item to get its components. It basically means the same thing in ESO.",O
+elderscrollsonline,newb,"A new or an unskilled player, sometimes both.",O
+elderscrollsonline,exile,"The Covenant's main EU PvP guild, containing many formidable and elite players. Also the EWC's arch-nemesis. Most notable players are Abraxus, Hexys, and Lairgren.",GROUP
+elderscrollsonline,war,"On the EU server, this is the main governing body of most Pact PvP as well as one of ESO's largest ""guilds"" by player count (Technically it isn't one guild, it's one big alliance of several guilds). The EWC and Exile are currently arch-rivals and absolutely despise eachother. Its most notable players are Quicky Ra, Subhuman, and myself, Neizir!",GROUP
+elderscrollsonline,zos,"Zenimax Online Studios, the developers of ESO. Sometimes mistaken as Zenimax Online Entertainment, a company that does not exist.",CORPORATION
+elderscrollsonline,stam,Stamina,O
+elderscrollsonline,main,"An account's main character, characterized by either more playtime, higher level, or just general classification by the player.",O
+elderscrollsonline,crucible,Blessed Crucible. Can be easily mistaken for Banished Cells.,LOCATION
+elderscrollsonline,cp,Champion Points.,O
+elderscrollsonline,alch,Alchemy,O
+elderscrollsonline,cooking,"Not used as often, but another word for Provisioning.",O
+elderscrollsonline,dot,Damage over Time. Any type of ability that deals damage over a period of time.,O
+elderscrollsonline,esotu,"The Elder Scrolls Online: Tamriel Unlimited, an MMORPG developed by Zenimax Online Studios and published by Bethesda Softworks, and the 8th entry in the critically-acclaimed Elder Scrolls franchise.",CREATIVE_WORK
+elderscrollsonline,dd,"A type of player that, as their name suggests, deals damage. In groups, these players help the tank kill stuff quickly as the tank will usually have sacrificed his damage dealing capability for survivability.",O
+elderscrollsonline,arena,Imperial City Arena District,LOCATION
+elderscrollsonline,ic,The Imperial City,LOCATION
+elderscrollsonline,ad,"Aldmeri Dominion. Like the EP and DC, they also have a DAoC counterpart, a faction called Hibernia, which was the faction of the foresty tree-hugging people. Just like their ESO counterparts!",GROUP
+elderscrollsonline,roll,When you make a new character or use a different build than usual.,O
+elderscrollsonline,troll,"When you purposefully make up bogus/rubbish information in order to get people to QQ for entertainment. Both hated and enjoyed by many people, but don't do it!.",O
+elderscrollsonline,teso,"The Elder Scrolls Online: Tamriel Unlimited, an MMORPG developed by Zenimax Online Studios and published by Bethesda Softworks, and the 8th entry in the critically-acclaimed Elder Scrolls franchise.",CREATIVE_WORK
+elderscrollsonline,ti,Tempest Island,LOCATION
+elderscrollsonline,wtb,"Want to Buy, used when a player wants to buy a certain item.",O
+elderscrollsonline,ac,Arx Corinium,LOCATION
+elderscrollsonline,kings,Kingscrest Keep,LOCATION
+elderscrollsonline,fg,Fungal Grotto,LOCATION
+elderscrollsonline,dsa,Dragonstar Arena,LOCATION
+elderscrollsonline,g,"Gold, one of the three main currencies of ESO, the other being Alliance Points (AP) and Crowns (C). For example, WTB Kuta, 600g.",O
+elderscrollsonline,raid,Another term for Trials.,O
+elderscrollsonline,drops,Items that can be looted from enemy's corpse.,O
+elderscrollsonline,tell,"Whisper, a form of private conversation that no-one else but you and the person you're whispering can see.",O
+elderscrollsonline,lag,Latency or FPS problems.,O
+elderscrollsonline,fps,"Frames per Second, how smooth ESO runs on your machine depending on your graphics settings and your computer.",O
+elderscrollsonline,blues,"Daggerfall Covenant. Sometimes mistaken for Disconnect, or the universe of superheroes. They also are sometimes (very rarely) called Midgard, because in Dark Age of Camelot, Midgard was the ""blue"" faction.",GROUP
+elderscrollsonline,mmo,Massively Multiplayer Online (MMO) Role Playing Game (RPG),O
+elderscrollsonline,lfg,Looking for Group. Used when you want a group for a certain task such as PvP or dungeons.,O
+elderscrollsonline,ep,"Ebonheart Pact. Very rarely are they called Albion, but it happens. This is because in ESO's spiritual predecessor, Dark Age of Camelot (DAoC), Albion was the ""red"" faction.",GROUP
+elderscrollsonline,oil,"Either an Oil Catapult or Flaming Oil, types of defense-oriented equipment.",O
+elderscrollsonline,gs,Guild Store.,O
+elderscrollsonline,op,"Anything that is overpowered, for example, the Jesus Beam, Lethal Arrow, Jason Leavey's Hair and Headnetch.",O
+elderscrollsonline,nub,"A new or an unskilled player, sometimes both.",O
+elderscrollsonline,choking,"When an alliance severs a Transitus link by taking three resources around one keep to break its link, but not actually attacking the keep, thus disconnecting an enemy alliance alliance from both the keeps the transitus link is connected to, and the choked keep itself.",O
+elderscrollsonline,woodwork,Woodworking,O
+elderscrollsonline,b2p,"Buy to Play, the business model that ESO uses.",O
+elderscrollsonline,eu,"Europe, European.",LOCATION
+elderscrollsonline,vamp,Vampire. Can sometimes be mistaken for the British boy band.,O
+elderscrollsonline,rvr,Realm vs. Realm,O
+elderscrollsonline,hp,Health,O
+elderscrollsonline,mag,Magicka,O
+elderscrollsonline,roe,Castle Roebeck,LOCATION
+elderscrollsonline,drake,Drakelowe Keep,LOCATION
+elderscrollsonline,spawn,"Refers to either mobs, or the locations those mobs enter the world (the actual spawning). The location can also be called a spawn point. In PvP this also applies to the player when they die.",LOCATION
+elderscrollsonline,ganking,"When a higher-level player and/or his buddies jump out of nowhere to attack lower-level players. Hated by many ""gankees"", but go ahead and do it it if you want. It's a warzone, there are no rules!",O
+elderscrollsonline,drag,Fort Dragonclaw,LOCATION
+elderscrollsonline,pve,"Player vs. Environment, anything that isn't PvP content.",O
+elderscrollsonline,de,"Deconstruct. The ""Disenchant"" bit comes from the MMO term of the same name, where one would destroy a particular item to get its components. It basically means the same thing in ESO.",O
+elderscrollsonline,adds,"Enemies that join a fight after it has begun, usually by being summoned or where their arrival is scripted. This includes enemies that draw aggro mid fight.",O
+elderscrollsonline,vr,"Veteran Rank. For example, if someone says VR16, then they're referring to Veteran Rank 16.",O
+elderscrollsonline,aoe,"Area of Effect. Types of abilities that affect all allies/enemies in a certain area, rather than one target.",O
+elderscrollsonline,vet,"Veteran. Can be applied to long-playing players, players with experience in a particular activity, players at the Veteran Ranks, high-level dungeons, high-level quests etc.",O
+fatlogic,haes,"Health At Every Size. Originally it was a movement that upheld as a key tenet that all people, regardless of size, can adopt healthy habits for a better quality of life. This generally good idea has been warped into an obstinately held belief by fat activists that one is healthy at every size. More on the history of HAES can be found here.",O
+fatlogic,fa,Interchangeably refers to Fat Activists (Activism) and Fat Acceptance. It can refer to the individuals and the movement as a whole.,O
+fatlogic,pcos,"Polycystic ovarian syndrome. A medical condition that, among other things, is often blamed for significant weight gain. If you have been diagnosed with PCOS please follow the advice given by your physician.",O
+fatlogic,titp,"This is Thin Privilege. A tumblr blog where people post personal stories of their own encounters with fat shaming and ""thin privilege""",CREATIVE_WORK
+childfree,daddict,"Portmanteau for ""daddy"" and ""addict"". Male version of mombie. Someone who is obsessed or addicted to talking about their child and basically incapable of discussing anything else.",O
+childfree,snowflake,"(or ""Sneauxflayke"", to mock ""unique"" spelling of new-generation baby names) Certain breeders like to think their children are totally unique and special just like snowflakes. Most “snowflakes” are the biggest brats on the planet from having idiot parents tell them how perfect and special they are every day.",O
+childfree,mombie,"Portmanteau for ""mommy"" and ""zombie"". Those unfortunate parents that have spent too many days baby-talking in isolation from other adults — who wander slack-jawed and glass-eyed through their days, incapable of coherent conversation or rational decision-making due to their only interaction being with children.",O
+childfree,bil,Brother-in-law,O
+childfree,mil,Mother-in-law,O
+childfree,breeder,"An individual that reproduces without giving any thought as to how he or she will take care of a child for the next 18 years. They do little to nurture or discipline that offspring during its most formative years, and exhibit a remarkable lack of responsibility when it comes to child-rearing.",O
+childfree,hellion,A child who is disobedient and evil in character.,O
+childfree,oops,"Synonym for ""reproductive coercion"". Situation where one member of an heterosexual couple tries to impregnate their partner or to be impregnated by their partner, without the partner's knowledge and consent. When the pregnancy finally happens, the baby-wanting spouse pretends that it is an accident. Thus, the ""oops"". For example, a woman would knowingly stop taking her birth control pill without telling her partner and then say ""Oops, must have forgotten to take the pill!"" when she discovers she is pregnant. Or a man can poke holes in his condoms and then pretend that ""Oops, the condoms must have broken on their own without us noticing!"".",O
+childfree,accident,"Synonym for ""oops"". Situation where someone tries to impregnate or get impregnated by their spouse without said spouse's spouse knowledge and tries to chalk the resulting pregnancy as an accident.",O
+childfree,childfree,"Someone who doesn't have children of any sort (biological, from another spouse's, adopted, fostered, etc.) AND doesn't want them at any point in the future.",O
+childfree,karen,"Karen is a slang term used as an antagonistic female character in memes. ""Karen"" is generally characterized as an irritating, entitled woman, sometimes as an ex-wife who took custody of ""the kids.""",PERSON
+childfree,pcos,"""Polycystic ovary syndrome"" Hormonal disorder common among women of reproductive age. Women with PCOS may have infrequent or prolonged menstrual periods or excess male hormone (androgen) levels. The ovaries may develop numerous small collections of fluid (follicles) and fail to regularly release eggs. One possible complication is infertility.",O
+childfree,iud,"Intra Uterine Device"". Shaped like a ""T"" and a bit bigger than a quarter, an IUD fits inside your uterus. It prevents pregnancy by stopping sperm from reaching and fertilizing eggs.",O
+childfree,paragard,"The only (commercially available in the US) hormone-free birth control method that requires a prescription. It's a copper IUD. Copper wire coiled around the device produces an inflammatory reaction that is toxic to sperm and eggs (ova), preventing pregnancy.",PRODUCT
+childfree,brant,"Portmanteau for ""breeder"" and ""rant"" or ""bratleigh"" and ""rant"". Rant about a situation involving an entitled parent or an ill behaved children.",O
+childfree,snip,"Permanent birth control solution (either female (bilateral salpingectomy, tubal ligation, hysterectomy, etc.) or male (vasectomy)).",O
+childfree,sterilization,"Permanent birth control. More than 99% effective against pregnancies and more than often irreversible. Male sterilization procedure is called ""vasectomy"". Women have moe sterilization procedure options : tubal ligation, bilateral salpingectomy, bilateral salpingectomy-oophorectomy and hysterectomy.",O
+childfree,spawn,Offspring of a person or animal,O
+childfree,sprog,"British word meaning “child”. Some upset breeders are convinced that it’s a derogatory term meaning “brat” or “evil child,” but I consulted three British dictionaries that all told me the same thing: it means “child,” nothing more.",O
+childfree,bratleigh,"Portmanteau of ""Brat"" and any new generation baby name ending in ""-leigh"" (Kayleigh, Bradleigh, Bayleigh, etc.). Generic dismissive name for a child who is seen by his parents as special and unable to do anything wrong, but is acting like a spoiled brat.",O
+childfree,hysterectomy,"Surgical removal of one's uterus. Will lead to infertility. It leaves the ovaries, which produce the sexual hormones, untouched. ",O
+childfree,parent,This is the term we use for good parents (as opposed to breeders).,O
+childfree,jetski,"Figurative speech for a possession demonstrating extravagant wealth that would have not be made possible if one had had children to pay for. Also, can literally just be a jetski.",O
+childfree,lifescript,"Unspoken notion that one has to live their lives as following : college, get a job, get married, get a house, get children.",O
+childfree,sahm,"""Stay At Home Mom"" Unemployed woman with kids. They often call it a ""job"" and list it as such when they are asked what is their current state of employment.",O
+childfree,wallet,Usually used to describe the husband of a SAHM. She uses him as nothing more than a paycheck. Also could be used to describe someone paying child support.,O
+childfree,so,"Significant Other. Term to designate one's boyfriend, girlfriend or otherwise life partner without giving out the gender, the marital status of their partner or the duration of their relationship.",O
+childfree,sink,"""Single Income No Kids"" -- Household with one healthy single income and no kids.",O
+fitness,pl,Planche,O
+fitness,sls,Single Leg Squat,O
+fitness,sl,Side Lever,O
+fitness,set,"A number of reps performed in a row, with little or no rest in between. Sets of repetitions are typically recorded as sets x reps. For example, “3×10 pull-ups” means 3 sets of 10 reps.",O
+fitness,bw,Body Weight,O
+fitness,ss,Starting Strength — A beginner barbell program,PRODUCT
+fitness,skinnyfat,"The term “skinnyfat” was originally coined to describe people in the normal BMI range (healthy weight) but who had blood markers showing an increased risk for many diseases and health conditions similar to those people in the obese BMI range. So, while they appeared healthy on the outside, upon closer inspection they were not. The technical term is metabolically obese, normal-weight individuals. In recent years this term has been co-opted to become a euphemism among people with fat in the wrong places and not enough muscle in the right places. In this instance, it’s a fairly meaningless term and does not change the applicability of any information or section in this FAQ.",O
+fitness,pr,Personal Record — The maximal amount of weight an individual has ever personally lifted.,O
+fitness,5k,A running race which covers 5 kilometers,O
+fitness,plate,"A 45lb/20kg barbell plate. As in, “He deadlifts six plates”. Refers to the number loaded on the barbell per side.",O
+fitness,ppl,"Push Pull Legs — A kind of weight lifting split where upper body push exercises are done one day (e.g. bench press), upper body pull exercises are down the next (e.g. rows) and leg work is done the following (e.g. squats). Typically done in a ABCABCx fashion, where ‘x’ is a rest day.",O
+fitness,cutting,or going on ‘a cut’. Short for ‘cutting fat’. It’s a term used when one’s goal is to diet down to reveal the underlying muscle and obtain more definition. It requires a caloric deficit.,O
+fitness,icf,Ice Cream Fitness. A beginner barbell program.,PRODUCT
+fitness,db,Dumbbell,O
+fitness,kb,Kettlebell. See /r/kettlebell.,O
+fitness,hypertrophy,"Shorthand for muscle hypertrophy, or the increase in size of a muscle.",O
+fitness,keto,Ketogenic diet — An ultra low-carb/high fat diet designed to keep the body in a status of ketosis. See /r/keto.,O
+fitness,gslp,"Greyskull Linear Progression, a training method/program",O
+fitness,doms,Delayed Onset Muscle Soreness — The muscular aches felt in the 1-3 days that follow a strenuous workout.,O
+fitness,bodybuilding,Training primarily for the purpose of developing musculature and definition. May also refer to the sport in which competitors pose and are judged on various criteria of their muscular development.,O
+fitness,volume,"The amount of work you are doing for a particular muscle group or lift in your program. Commonly used in generalities, such as “low” or “high” volume. For example, if you only do 5×5 for your bench press, this would be low volume.",O
+fitness,pwo,Pre-workout — A supplement that contains stimulants such as caffeine that is taken shortly before a workout.,O
+fitness,c25k,Couch To 5K — A nine week beginner’s running program that is designed to help an untrained enthusiast gradually become capable of running a 5K.,PRODUCT
+wow,hps,Healing Per Second,O
+wow,fresh,A group that is starting a raid with no bosses killed,O
+wow,ww,Whirlwind,O
+wow,alt,Alternate Character,O
+wow,gcd,Global Cooldown,O
+wow,rfc,Ragefire Chasm,LOCATION
+wow,org,Orgrimmar,LOCATION
+wow,lfr,Raid Finder,O
+wow,ai,Artificial Intelligence,O
+wow,zg,Zul’Gurub,LOCATION
+wow,bm,Beast Master Hunter,O
+wow,mc,Mortal Coil,O
+wow,rng,Random Number Generator (usually referring to loot drops or /roll),O
+wow,panda,Pandaren,GROUP
+wow,ele,Elemental Shaman,O
+wow,ssc,Serpentshrine Caverns,LOCATION
+wow,lf,Looking For,O
+wow,fp,Flight Point,O
+wow,hot,Healing Over Time,O
+wow,25m,25-man raid,O
+wow,cata,Cataclysm,CREATIVE_WORK
+wow,dal,Dalaran,LOCATION
+wow,mob,Enemy,O
+wow,tb,Tol Barad,LOCATION
+wow,cd,Cooldown,O
+wow,heals,Healer,O
+wow,brm,Brewmaster Monk,O
+wow,sw,Stormwind,LOCATION
+wow,h,Heroic Raids,O
+wow,port,The actual Portal,O
+wow,bot,Bastion of Twilight,LOCATION
+wow,za,Zul’Aman,LOCATION
+wow,soo,Siege of Orgrimmar,O
+wow,dm,Deadmines,LOCATION
+wow,wow,World of Warcraft,CREATIVE_WORK
+wow,s,Silver,O
+wow,bubbles,Absorb shield,O
+wow,hof,Heart of Fear,O
+wow,shat,Shattrath,LOCATION
+wow,ss,Sacred Shield,O
+wow,scholo,Scholomance,LOCATION
+wow,disc,Discipline Priest,O
+wow,10m,10-man raid,O
+wow,pally,Paladin,O
+wow,boa,Bind on account,O
+wow,enh,Enhancement Shaman,O
+wow,pve,Player vs. Enemy,O
+wow,boe,Bind on equipment,O
+wow,vanilla,Original World of Warcraft,O
+wow,tbc,The Burning Crusade,CREATIVE_WORK
+wow,fl,Firelands,LOCATION
+wow,msv,Mogu’shan Vaults,LOCATION
+wow,25man,25-man raid,O
+wow,prof,Profession,O
+wow,aq40,Ahn’Qiraj,LOCATION
+wow,ret,Retribution Pally,O
+wow,mop,Mists of Pandaria,CREATIVE_WORK
+wow,toc,Trial of the Crusader,O
+wow,m,Million,O
+wow,hunter,Huntard,O
+thedivision,noob,"A player who is fairly new to the game, and does not know what's going on for the most part. Sometimes used as an insult. Please be nice to your follow gamers.",O
+thedivision,rngesus,"A mythical deity which MMORPG players pray to hoping for good RNG drops. ""I hope RNGesus gives me a nice High-End Shotgun.""",PERSON
+thedivision,mmr,Marksman Rifle,O
+thedivision,afk,Away from Keyboard,O
+thedivision,fl,Falcon Lost,O
+thedivision,build,"The chosen Skills, Talents, and Gear choices including weapons of a player.",O
+thedivision,base,"Home base, or in The Division, your Base of Operations.",O
+thedivision,rez,"Short for Resurrect, or to revive a downed player.",O
+thedivision,healer,"A class build that focuses on keeping a group of players alive and at full health. Generally also supports allies with useful buffs. -- See also: Build, Class, Spec",O
+thedivision,shade,"This is the organization that sent you in, the ""Break Glass in Case of Very Bad Emergency"" crew. You are part of the second wave of Agents sent in by this powerful and secretive group, and if you think every Division Agent sent into Manhattan played things by the book, you've got a lot to learn.",GROUP
+thedivision,grind,"Repeatedly killing enemies or completing the same mission to achieve a goal, like leveling up, or unlocking a new feature.",O
+thedivision,boo,Base of Operations,LOCATION
+thedivision,gear,"This refers to all the stuff you're wearing on your body that helps protect you and boost your skills. Gear slots include body armor, a mask, knee pads, a backpack, gloves, and a holster.",O
+thedivision,acc,Accuracy,O
+thedivision,hvt,High Value Targets,O
+thedivision,chd,Critical Hit Damage,O
+thedivision,clan,"A large social group of players that form under a single name/banner. Some Clans have a specific interest, like PVP-focused Clans. -- See also: Guild",O
+thedivision,commendation,"You’ll be doing a lot of cool stuff in The Division, and Commendations are a way to track that cool stuff, reward you with cool stuff, and give you ideas on other cool stuff to do. Each one you accomplish adds to your Commendation Score, which gives other players an idea of how much cool stuff you’ve been doing.",PRODUCT
+thedivision,recon,Reconnaissance. To gather information and scout dangerous areas before other players advance into the area.,O
+thedivision,instance,"A area of the game that is specific to a single player/group, allowing multiple players/groups to access the area without running into each other. -- See also: Dungeon, Incursion, Stage",O
+thedivision,rogue,"The status a player gets for unprovoked attacks on other players in the Dark Zone. Not to be confused with Rouge which is only a deep, flat shade of red.",O
+thedivision,veteran,"The official term for the purple-health enemies in the game. Most likely to be abbreviated ""Vets.""",O
+thedivision,inc,Incursion,O
+thedivision,spec,"Specialization. The playstyle or chosen Skill build of a player character. Generally asked as a question when joining groups. “Spec? - Tank.” -- See also: Build, Class, DPS, Healer, Tank",O
+thedivision,dlc,Downloadable Content,O
+thedivision,rof,Rate-of-Fire,O
+thedivision,wipe,"When an entire group is fully killed during an encounter, and must re-spawn and restart the fight/mission from the beginning.",O
+thedivision,elite,Used to refer to a more powerful enemy. Also the official term for the yellow-health enemies in the game.,O
+thedivision,agent,"This is you. And your friends. And any other player you meet in The Division. You're part of a secret government cadre of highly trained civilians who are called on only in dire emergencies. Things in New York City are pretty dire, and it’s up to you and your fellow Agents to pull the city back from the brink.",O
+thedivision,pve,Player versus Environment,O
+thedivision,electronics,"These numbers appear at the top of your Inventory Overview screen and are an at-a-glance way to assess the power of your current Loadout. When considering a new weapon or gear item, check these numbers for a quick look at how it would affect these numbers. Trying to make these numbers get bigger is generally a good idea, but be aware that high-level weapons often have Talents requiring certain levels of Firearms/Stamina/Electronics and equip accordingly.",O
+thedivision,xp,Experience points,O
+thedivision,class,"The playstyle or chosen Skill build of a player character. The three general classes are Tank, DPS, and Healer. -- See also: Build, DPS, Healer, Spec, Tank",O
+thedivision,gank,"Being mercilessly ambushed and killed by overwhelming force or unfair odds, usually by players.",O
+thedivision,armor,"The higher the Armor number of a given piece of gear, the less damage you will take. You don't like taking a lot of damage, do you? Of course not. Keep those Armor numbers high and getting higher.",O
+thedivision,main,The character you play the most.,O
+thedivision,debuff,"A temporary harmful/negative effect on your character, usually from an enemy Skill, Talent, or Gear piece. Opposite of Buff.",O
+thedivision,weapons,"Guns. Two primary slots for the big ones, and one sidearm slot (with unlimited ammo!) for the small ones. Their color allows you to judge them at a glance; in order of increasing rarity, you’ll find white (worn), green (standard), blue (specialized), purple (superior), gold (high-end), and red (exotic!). Rarer is usually better.",O
+thedivision,tank,"A player that has built their character to withstand as much damage as possible. They generally pair high health & armor with weapons that increase threat generation, in order to keep enemy damage focused solely on them. Also known as a Meat Shield. -- See also: Build, Class, Spec",O
+thedivision,ab,AlphaBridge,PRODUCT
+thedivision,loadouts,"This term refers broadly to the weapons, gear, skills, and talents you have equipped. You can save a bunch of loadouts in the Loadouts tab and switch between them as you see fit. This is really helpful for when you want to experiment with different stuff, and very handy once you start assembling on some fancy Gear Sets.",O
+thedivision,deploy,To indicate use of a specific Skill or Item. “Deploying my mobile cover in front of the door.”,O
+thedivision,npc,Non-Player Character,O
+thedivision,ttk,Time to kill,O
+thedivision,alt,"Short for alternate, this describes other in-game characters the player has created, but do not currently focus on leveling up/getting better gear. -- See also: Avatar, Char, Main",O
+thedivision,cqc,Close Quarter Combat,O
+thedivision,los,"Line-of-Sight, or basically, if an enemy can shoot you.",O
+thedivision,lag,"When the game’s connection to the internet or game servers significantly slows down. This will cause choppy movement in the game, players running in-place, and other odd issues.",O
+thedivision,burn,"The act of applying as much damage as possible in a short period of time, usually paired with activating damage-increase Skills and/or Items. Usually describe as a ""Burn phase."" ""After the adds go down, the boss will stop moving to reload, and take extra damage during this period. All DPS will use this as a Burn phase.""",O
+thedivision,lvl,Level,O
+thedivision,hot,"Heal-over-Time. A buff that causes Healing over several seconds, usually at a specific set of times.",O
+thedivision,interrupt,"A Skill or Item that will stop an enemy's Skill from working, or even being used in the first place.",O
+antimlm,hun,"People who shill products/services for an MLM. The sellers have a tendency to frequently use the word ""hun"" when initiating a sales pitch. Ex: “Hey hun ❤️❤️ I see your aunt is dying 😱😱 anyway hun 😊💁‍♀️ wanna buy my oils it’s good for stress 😍😘😘”",O
+asoiaf,lol,Laugh out loud,O
+asoiaf,grrm,George. R. R. Martin. Author of all the novels in the series.,PERSON
+asoiaf,affc,A Feast For Crows. The fourth novel in the series.,CREATIVE_WORK
+asoiaf,twow,The Winds Of Winter. The sixth novel in the series (unpublished).,CREATIVE_WORK
+asoiaf,got,Game of Thrones. The name of the television series adapted from the books.,CREATIVE_WORK
+asoiaf,ados,A Dream Of Spring. The seventh and expected final novel in the series (unpublished).,CREATIVE_WORK
+asoiaf,hbo,Home Box Office. The name of the television network that originally aired the series.,CORPORATION
+asoiaf,redditor,a user of Reddit.,O
+asoiaf,til,"""Today I learned"" (YIL means yesterday I learned)",O
+asoiaf,twoiaf,"The World of Ice and Fire. A companion book to the series, written from a maester's perspective, presenting historical and cultural information about the world.",CREATIVE_WORK
+asoiaf,iirc,If I recall correctly,O
+asoiaf,aa,Azor Ahai. Another legendary hero often discussed on /r/asoiaf.,PERSON
+asoiaf,so,Significant other,O
+asoiaf,repost,this content has previously been submitted.,O
+asoiaf,asos,A Storm Of Swords. The third novel in the series.,CREATIVE_WORK
+competitiveoverwatch,assault,"Game mode with 2 points, capturing the first point unlocks the second point. One team has to capture the points, while the defending team has to defend it. At the end of a round the teams switch sides.",O
+afl,fixture,"(sing.) draw, schedule",O
+afl,tipping,pick’em,O
+afl,back,"or back(line). left back pocket, back flank, right back pocket",O
+afl,forward,"(line): left forward pocket, full-forward, right forward pocket",O
+amitheasshole,yta,You're the Asshole ,O
+amitheasshole,nta,Not the A-hole ,O
+amitheasshole,nah,No A-holes here,O
+amitheasshole,esh,Everyone Sucks here ,O
+bodybuilding,rep,a repetition: one complete movement of the exercise you are performing,O
